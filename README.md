@@ -3,15 +3,15 @@
 This project provides a comprehensive overview of online sales transactions across different product categories and regions.
 
 Columns:
-Order ID: Unique identifier for each sales order.
-Date:Date of the sales transaction.
-Category:Broad category of the product sold (e.g., Electronics, Home Appliances, Clothing, Books, Beauty Products, Sports).
-Product Name:Specific name or model of the product sold.
-Quantity:Number of units of the product sold in the transaction.
-Unit Price:Price of one unit of the product.
-Total Price: Total revenue generated from the sales transaction (Quantity * Unit Price).
-Region:Geographic region where the transaction occurred (e.g., North America, Europe, Asia).
-Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
+1. Order ID: Unique identifier for each sales order.
+2. Date:Date of the sales transaction.
+3. Category:Broad category of the product sold (e.g., Electronics, Home Appliances, Clothing, Books, Beauty Products, Sports).
+4. Product Name:Specific name or model of the product sold.
+5. Quantity:Number of units of the product sold in the transaction.
+6. Unit Price:Price of one unit of the product.
+7. Total Price: Total revenue generated from the sales transaction (Quantity * Unit Price).
+8. Region:Geographic region where the transaction occurred (e.g., North America, Europe, Asia).
+9. Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 
 * Questions addressed by this project include:
 
